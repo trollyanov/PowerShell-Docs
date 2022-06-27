@@ -80,7 +80,7 @@ The example writes the word **backup** and then moves the cursor back twice.
 Then, at the new position, writes a space followed by the word **out**.
 
 ```powershell
-"backup`b`b out"
+"backup `b`b out"
 ```
 
 ```Output
