@@ -136,6 +136,7 @@ elements in the array, type the array name. For example, assuming `$a` is an
 array containing integers 0, 1, 2, until 9; typing:
 
 ```powershell
+$a = 0..9
 $a
 ```
 
